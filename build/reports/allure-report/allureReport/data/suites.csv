@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 27 16:37:48 YEKT 2022","Sun Feb 27 16:38:03 YEKT 2022","14145","","netology.DeliveryTest","","netology.DeliveryTest","shouldAcceptInformation","shouldAcceptInformation()",""

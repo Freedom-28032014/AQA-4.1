@@ -1,5 +1,51 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "children" : [ ],
-  "name" : "timeline"
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Air-Tanya.Dlink",
+    "children" : [ {
+      "name" : "11141@Air-Tanya.Dlink.Test worker(13)",
+      "children" : [ {
+        "name" : "shouldAcceptInformation()",
+        "uid" : "ac3968a9a9acab47",
+        "parentUid" : "f18aa349e40c2b6ab18e7441b273d521",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645961868945,
+          "stop" : 1645961883090,
+          "duration" : 14145
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f18aa349e40c2b6ab18e7441b273d521"
+    }, {
+      "name" : "11051@Air-Tanya.Dlink.Test worker(13)",
+      "children" : [ {
+        "name" : "shouldAcceptInformation()",
+        "uid" : "7d2d8065e8668526",
+        "parentUid" : "fced19c154264115c1f047e966d0296c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645961629403,
+          "stop" : 1645961671512,
+          "duration" : 42109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fced19c154264115c1f047e966d0296c"
+    } ],
+    "uid" : "ad3f84ed2bd9418f2d70b132fe4685b8"
+  } ]
 }

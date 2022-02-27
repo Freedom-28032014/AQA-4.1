@@ -1,5 +1,22 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "children" : [ ],
-  "name" : "behaviors"
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "shouldAcceptInformation()",
+    "uid" : "ac3968a9a9acab47",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1645961868945,
+      "stop" : 1645961883090,
+      "duration" : 14145
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  } ]
 }

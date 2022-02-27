@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "ac3968a9a9acab47",
+  "name" : "shouldAcceptInformation()",
+  "time" : {
+    "start" : 1645961868945,
+    "stop" : 1645961883090,
+    "duration" : 14145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

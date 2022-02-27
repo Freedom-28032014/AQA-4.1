@@ -1,5 +1,26 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "children" : [ ],
-  "name" : "suites"
+  "name" : "suites",
+  "children" : [ {
+    "name" : "netology.DeliveryTest",
+    "children" : [ {
+      "name" : "shouldAcceptInformation()",
+      "uid" : "ac3968a9a9acab47",
+      "parentUid" : "953c014c7f014058973f4c80e4030a6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645961868945,
+        "stop" : 1645961883090,
+        "duration" : 14145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "953c014c7f014058973f4c80e4030a6a"
+  } ]
 }
